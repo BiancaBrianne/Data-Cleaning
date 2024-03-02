@@ -1,15 +1,15 @@
-# Data-Cleaning
-## A variety of data cleaning methods applied to real world data. 
+# Math Learning Center Data Cleaning
+- dataset concatenation
+- column drop
+- empty row deletion
+- encodig sensitive data
+- rounding
+- changing data types
+- string time to float hours function
+- format function
+- filling missing data
 
-- Database concatenation
-- Dropping NaN rows
-- Renaming columns
-- Filtering database
-- Masking sensitive data
-- Rounding entire columns
-- Converting hh:mm string to hours float
-- Correcting data
-
+This code contains various methods of data cleaning applied to real world tutoring center data. There were several aspects of the data that needed to be altered. Student numbers have been encoded, all names have been dropped from the data, missing values were filled with appropriate values. Time given in the format hh:mm was converted to hours and any numeric values were rounded as appropriate. All course codes were corrected to fit the 4 character code system. For example, 1 was changed to 0001 to match the course codes at the college.
 
   ![image](https://github.com/BiancaBrianne/Data-Cleaning/assets/37970225/68693615-2fd1-4098-b5f5-4a5f0b4ee467)
 
