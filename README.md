@@ -2,7 +2,7 @@
 - dataset concatenation
 - column drop
 - empty row deletion
-- encodig sensitive data
+- encoding sensitive data
 - rounding
 - changing data types
 - string time to float hours function
