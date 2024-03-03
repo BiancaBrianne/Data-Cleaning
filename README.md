@@ -1,4 +1,6 @@
 # Math Learning Center Data Cleaning
+<img align="right" src="surface.jpg" />
+
 - dataset concatenation
 - column drop
 - empty row deletion
